@@ -24,12 +24,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yinan LI"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "Technical University Munich"
+  uri              : "www.tum.de"
   email            : "none@example.org" 
 
   # Academic websites
